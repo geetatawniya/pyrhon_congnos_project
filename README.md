@@ -1,2 +1,2 @@
-# pyrhon_congnos_project
+# python_congnos_project
 using coursera
